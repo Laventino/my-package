@@ -1,0 +1,12 @@
+{
+    "name": "sodexs/my-package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sodexs\\MyPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
